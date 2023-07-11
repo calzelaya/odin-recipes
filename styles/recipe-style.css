@@ -1,11 +1,20 @@
 /* recipe stylesheet */
+* {
+    background-color: beige;
+}
+
 
 .container {
-    border: 2px solid red;
+    border: 4px solid darkred;
     width: 600px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    background-color: beige;
+}
+
+.container img {
+    max-width: 500px;
 }
 
 .recipe-content ul,
