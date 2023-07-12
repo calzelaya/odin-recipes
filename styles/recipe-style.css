@@ -1,7 +1,7 @@
 /* recipe stylesheet */
-/* * {
-    background-color: beige;
-} */
+ /* * {
+  border: 2px solid red;
+}  */
 
 body {
     background-color: wheat;
@@ -10,11 +10,12 @@ body {
 
 .container {
     border: 4px solid darkred;
-    width: 600px;
+    width: flex;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     background-color: beige;
+    box-sizing: border-box;
 }
 
 .container img {
