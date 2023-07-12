@@ -10,7 +10,7 @@ body {
 
 .container {
     border: 4px solid darkred;
-    width: flex;
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
