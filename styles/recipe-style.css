@@ -28,3 +28,7 @@ body {
 .recipe-content p {
     text-align: left;
 }
+
+.recipe-content li {
+    padding: 2px;
+}
